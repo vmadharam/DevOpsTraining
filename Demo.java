@@ -1,6 +1,5 @@
 First Line 
-Second Line Modified
-
+Second Line Modified in Feature1 branch
 Third Line
 
 Fourth Line
